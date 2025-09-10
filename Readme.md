@@ -27,7 +27,7 @@ It uses the **OpenWeather API** to fetch real-time weather data for any city.
 ---
 
 ## 🌐 Live Demo
-[Click here to view the project](https://your-username.github.io/weather-app/)
+[Click here to view the project](https://junaid691.github.io/weather-app/)
 
 ---
 
